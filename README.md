@@ -1,5 +1,6 @@
 # StarBringer
 - 스타브링어는 3D RPG Game이며, 홀로 기획 & 개발 & 디자인을 통해 구현한 첫 게임입니다.
+- Unity3D, C#을 통해 개발되었습니다.
 - 이 repo에는 스크립트에 해당하는 파일만 존재합니다.
 ## [LOG]
 - [스타브링어 개발기](https://github.com/sunio00000/StarBringer/blob/master/%EC%8B%A0%EC%9E%85%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(%EC%98%A4%ED%83%9C%EC%96%91).pdf)
